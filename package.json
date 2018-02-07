@@ -1,0 +1,9 @@
+{
+  "name": "vrun-questions-server",
+  "version": "1.0.0",
+  "description": "Basic json server for vrun.",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Andrei Astakhov"
+}
